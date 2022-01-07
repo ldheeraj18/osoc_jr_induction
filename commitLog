@@ -1,0 +1,30 @@
+commit af5aef3663c34c76088508109f8c4415f11f8314
+Author: Dheeraj Lakhotra <abdheeraj18@gmail.com>
+Date:   Fri Jan 7 09:53:29 2022 +0530
+
+    added mergeConflict file
+
+commit 16f1e15923cf20ccda223f36f7de11cbc3e6af1a
+Merge: 0ab1fc4 31daee9
+Author: Dheeraj Lakhotra <abdheeraj18@gmail.com>
+Date:   Fri Jan 7 09:30:37 2022 +0530
+
+    conflict resolved
+
+commit 0ab1fc4a2a8252a0731bb39ac38eff78dec55bb3
+Author: Dheeraj Lakhotra <abdheeraj18@gmail.com>
+Date:   Fri Jan 7 09:26:16 2022 +0530
+
+    creating conflict
+
+commit 31daee92d1bac050dc7d0eff44fe0a88dd96f1d3
+Author: Dheeraj Lakhotra <abdheeraj18@gmail.com>
+Date:   Fri Jan 7 09:20:38 2022 +0530
+
+    added git commands
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
