@@ -1,0 +1,15 @@
+Merge conflict Resolving
+
+I created a merge conflict in the following manner:
+  i) Created two branches - TempA and TempB.
+ ii) Modified the GitCommands.txt file in both branches and then added and committed them to the respective branches.
+iii) Merged TempA with commandDesc branch, which worked fine.
+ iv) Tried to merge TempB with commandDesc branch, which resulted in the merge conflict error.
+  v) Used git status command and it said the error was because - both modified GitCommands.txt file.
+
+To resolve this conflict, I followed these steps:
+  i) Opened up the file with Vim editor.
+ ii) Removed the conflict markers and correctly edited the conflicting line.
+iii) Added and commited in the commandDesc branch.
+ iv) Finally merged commandDesc with main.
+  v) Deleted TempA and Temp B.
