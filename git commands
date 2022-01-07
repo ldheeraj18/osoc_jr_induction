@@ -1,0 +1,21 @@
+Git commands 
+
+1) git init : Initialize a local Git repository
+
+2) git stash : Stash changes in a dirty working directory
+
+3) git stash clear : Remove all stashed entries
+
+4) git pull : Update local repository to the newest commit
+
+5) git revert commitid : Revert commit changes
+
+6) git config --global user.name "your_username" : Set globally your_username
+
+7) git config --global user.email "your_email_address@example.com" : Set globally user email
+
+8) git config --global --list : get global config
+
+9) git diff [source branch] [target branch] : git diff [source branch] [target branch]
+
+10) git remote add origin ssh://git@github.com/[username]/[repository-name].git : Add a remote repository
